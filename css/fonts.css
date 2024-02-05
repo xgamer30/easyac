@@ -1,0 +1,26 @@
+@font-face {
+    font-family: Brutal;
+    src:url('../fonts/Brutal.ttf') format('truetype'),
+        url('../fonts/Brutal.eot') format('eot');
+}
+
+@font-face {
+    font-family: Brutal-Bold;
+    src:url('../fonts/Brutal-Bold.ttf') format('truetype'),
+        url('../fonts/Brutal-Bold.eot') format('eot');
+}
+
+@font-face {
+    font-family: Roboto;
+    src:url('../fonts/Roboto-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: Roboto-Light;
+    src:url('../fonts/Roboto-Light.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: Roboto-Bold;
+    src:url('../fonts/Roboto-Bold.ttf') format('truetype');
+}

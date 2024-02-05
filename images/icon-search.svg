@@ -1,0 +1,17 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+        stroke-width: 10px;
+      }
+    </style>
+  </defs>
+  <title>Kamu_icons_final</title>
+  <circle class="cls-1" cx="92.57" cy="92.37" r="55.06"/>
+  <path class="cls-1" d="M92.87,67.9a23,23,0,0,1,23,23"/>
+  <line class="cls-1" x1="130.62" y1="132.17" x2="166.86" y2="168.41"/>
+</svg>
